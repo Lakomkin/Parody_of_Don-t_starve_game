@@ -1,0 +1,19 @@
+object Form2: TForm2
+  Left = 659
+  Height = 286
+  Top = 174
+  Width = 435
+  Caption = 'Form2'
+  ClientHeight = 286
+  ClientWidth = 435
+  OnShow = FormShow
+  LCLVersion = '1.8.2.0'
+  object Label1: TLabel
+    Left = 173
+    Height = 15
+    Top = 85
+    Width = 38
+    Caption = 'конесс'
+    ParentColor = False
+  end
+end
